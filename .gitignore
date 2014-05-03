@@ -2,3 +2,4 @@ tools/*
 lib/impact/*
 lib/weltmeister/*
 weltmeister.html
+game.min.js
